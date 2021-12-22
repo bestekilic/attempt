@@ -6,4 +6,4 @@ fdjfdkgjkdfgkfjg
 [lorem ipsum](http://google.com)
 
 
-//Projenin açıklama kısmıdır.
+//Projenin açıklama kısmıdır..
